@@ -29,13 +29,15 @@ render() {
        <div>
        <h4>Instructions here: </h4>
                 <li>
-                    If you are X, your opponent is O. Players take turns putting their marks in empty squares.
+                  Click the New Game with Timer button only after Timeout.
+                </li>
+                  If you are X, your opponent is O. Players take turns putting their marks in empty squares.
                 </li>
                 <li>
-                The first player to get 3 of their marks in a row (vertical, across, or diagonally) is the winner.
+                  The first player to get 3 of their marks in a row (vertical, across, or diagonally) is the winner.
                 </li>
                 <li>
-                When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
+                  When all 9 squares are full, the game is over. If no player has 3 marks in a row, the game ends in a tie.
                 </li>
                     
        </div>
