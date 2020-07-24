@@ -31,6 +31,7 @@ render() {
                 <li>
                   Click the New Game with Timer button only after Timeout.
                 </li>
+                <li>
                   If you are X, your opponent is O. Players take turns putting their marks in empty squares.
                 </li>
                 <li>
